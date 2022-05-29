@@ -1,6 +1,6 @@
-This Repository covers different data structures in Kotlin Language
+## This Repository covers different data structures in Kotlin Language
+- [x] Strings 
+- [ ] Collections
 
-1. Strings
 
-
-Note-: comments are included alongside code for reference. 
+ Note-: comments are included alongside code for reference. 
